@@ -439,6 +439,8 @@ module.exports = {
     images_as_only: '**作为仅图像频道！** | 重置类型：图像频道重置 <channel>',
     slowmode_specify_time: '**:rolling_eyes: - 请输入补贴时间**',
     slowmode_done: '<:check:855651069317480488> ** 现在缓慢模式',
+    drop_support: `Hello, {author}\n<:information:936646340455309362> In this update, we dropped support of normal commands.\n
+  **<:SlashCommands:930520506841567333> Please refer to use Slash Commands (/)**`,
     // Permissions
     manage_emojis: '<:x_:873534429346267157> | 对不起，您没有 [MANAGE_EMOJIS] 权限',
     manage_webhooks: '<:x_:873534429346267157> | 对不起，您没有 [MANAGE_WEBHOOKS] 权限',
