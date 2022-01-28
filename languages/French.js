@@ -439,6 +439,8 @@ module.exports = {
     images_as_only: '**en tant que canal d\'image seulement!** | Pour réinitialiser le Type: imageschannel reset <channel>',
     slowmode_specify_time: '**:rolling_eyes: - Veuillez entrer une heure de vente**',
     slowmode_done: '<:check:855651069317480488> ** Slowmode est maintenant',
+    drop_support: `Hello, {author}\n<:information:936646340455309362> In this update, we dropped support of normal commands.\n
+  **<:SlashCommands:930520506841567333> Please refer to use Slash Commands (/)**`,
     // Permissions
     manage_emojis: '<:x_:873534429346267157> | Désolé, vous n\'avez pas la permission [MANAGE_EMOJIS]',
     manage_webhooks: '<:x_:873534429346267157> | Désolé, vous n\'avez pas la permission [MANAGE_WEBHOOKS]',
