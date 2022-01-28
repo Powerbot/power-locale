@@ -439,6 +439,8 @@ module.exports = {
     images_as_only: '**als alleen kanaal van afbeelding!** ½ Om Type opnieuw instellen: imageschannel reset <channel>',
     slowmode_specify_time: '**:rolling_eyes: - Voer een beschikbare tijd in**',
     slowmode_done: '<:check:855651069317480488> ** Slowmode is nu',
+    drop_support: `Hello, {author}\n<:information:936646340455309362> In this update, we dropped support of normal commands.\n
+  **<:SlashCommands:930520506841567333> Please refer to use Slash Commands (/)**`,
     // Permissions
     manage_emojis: '<:x_:873534429346267157> iFixit. Je hebt [MANAGE_EMOJIS] rechten niet',
     manage_webhooks: '<:x_:873534429346267157> iFixit. Je hebt [MANAGE_WEBHOOKS] rechten niet',
